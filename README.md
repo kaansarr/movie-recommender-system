@@ -22,6 +22,7 @@ This project is an end-to-end movie recommendation system built using collaborat
 
 ## 📂 Project Structure
 
+```bash
 movie-recommender/
 │
 ├── api/
