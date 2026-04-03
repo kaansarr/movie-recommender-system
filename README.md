@@ -36,8 +36,8 @@ movie-recommender/
 │   └── movies_metadata.csv
 │
 ├── requirements.txt
-└── README.md
-
+└── README.md 
+```
 ## ▶️ Run the Project
 
 ### 1. Start API
